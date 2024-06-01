@@ -1,0 +1,220 @@
+.img1
+{
+	position:relative;
+	height:400px;
+	width:350px;
+	top:-200px;
+	left:0px;
+}
+.img1:hover{
+	box-shadow:2px 3px 50px 5px lightblue;
+}
+.img2
+{
+	position:relative;
+	height:400px;
+	width:350px;
+	top:-200px;
+	left:150px;
+}
+.img2:hover{
+	box-shadow:2px 3px 50px 5px lightblue;
+}
+.img3
+{
+	position:relative;
+	height:400px;
+	width:350px;
+	top:-200px;
+	left:270px;
+}
+.img3:hover{
+	box-shadow:2px 3px 50px 5px lightblue;
+}
+.img4
+{
+	position:relative;
+	height:400px;
+	width:350px;
+	top:-100px;
+	left:0px;
+}
+.img4:hover{
+	box-shadow:2px 3px 50px 5px lightblue;
+}
+.img5
+{
+	position:relative;
+	height:400px;
+	width:350px;
+	top:-100px;
+	left:150px;
+}
+.img5:hover{
+	box-shadow:2px 3px 50px 5px lightblue;
+}
+.img6
+{
+	position:relative;
+	height:400px;
+	width:350px;
+	top:-100px;
+	left:270px;
+}
+.img6:hover{
+	box-shadow:2px 3px 50px 5px lightblue;
+}
+.img7
+{
+	position:relative;
+	height:400px;
+	width:350px;
+	top:280px;
+	left:0px;
+}
+.img7:hover{
+	box-shadow:2px 3px 50px 5px lightblue;
+}
+.img8
+{
+	position:relative;
+	height:400px;
+	width:350px;
+	top:280px;
+	left:150px;
+}
+.img8:hover{
+	box-shadow:2px 3px 50px 5px lightblue;
+}
+.img9
+{
+	position:relative;
+	height:400px;
+	width:350px;
+	top:280px;
+	left:270px;
+}
+.img9:hover{
+	box-shadow:2px 3px 50px 5px lightblue;
+}
+.d1{
+	position:relative;
+	font-size:30px;
+	top:-1020px;
+	color:white;
+	left:10px;
+}
+.d1:hover{
+	color:red;
+}
+.d2{
+	position:relative;
+	font-size:30px;
+	top:-1110px;
+	color:white;
+	left:500px;
+}
+.d2:hover{
+	color:yellow;
+}
+.d3{
+	position:relative;
+	font-size:30px;
+	top:-1200px;
+	color:white;
+	left:990px;
+}
+.d3:hover{
+	color:blue;
+}
+.d4{
+	position:relative;
+	font-size:30px;
+	top:-800px;
+	color:white;
+	left:10px;
+}
+.d4:hover{
+	color:lightblue;
+}
+.d5{
+	position:relative;
+	font-size:30px;
+	top:-890px;
+	color:white;
+	left:500px;
+}
+.d5:hover{
+	color:yellow;
+}
+.d6{
+	position:relative;
+	font-size:30px;
+	top:-980px;
+	color:white;
+	left:990px;
+}
+.d6:hover{
+	color:blue;
+}
+.d7{
+	position:relative;
+	font-size:30px;
+	top:-280px;
+	color:white;
+	left:10px;
+}
+.d7:hover{
+	color:lightblue;
+}
+.d8{
+	position:relative;
+	font-size:30px;
+	top:-380px;
+	color:white;
+	left:500px;
+}
+.d9{
+	position:relative;
+	font-size:30px;
+	top:-470px;
+	color:white;
+	left:990px;
+}
+.d9:hover{
+	color:blue;
+}
+
+.ex1
+{
+	position:relative;
+	height:400px;
+	width:350px;
+	top:40px;
+	left:0px;
+}
+.ex1:hover{
+	box-shadow:2px 3px 50px 5px lightblue;
+}
+.ex2
+{
+	position:relative;
+	height:400px;
+	width:350px;
+	top:40px;
+	left:150px;
+}
+.ex2:hover{
+	box-shadow:2px 3px 50px 5px lightblue;
+}
+.ex3
+{
+	position:relative;
+	height:400px;
+	width:350px;
+	top:40px;
+	left:270px;
+}
+.ex3:hover{
+	box-shadow:2px 3px 50px 5px lightblue;
+}
